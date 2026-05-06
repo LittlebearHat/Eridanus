@@ -11,3 +11,8 @@ pushMyBranch.sh
 sync-with-main.sh
 
 .history/*
+
+# 大文件/数据库存储
+data/redis_extracted/
+data/dataBase/
+data/voice/cache
